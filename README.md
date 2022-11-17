@@ -40,6 +40,10 @@ no
 
 yes
 
-[image](sc1.png)
 
-[lab link]()
+---
+---
+
+![image](sc1.png)
+
+[lab link](https://oplikos.github.io/Lab8_Starter/)
