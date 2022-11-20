@@ -30,7 +30,7 @@ NO
 
 ## Answer
 
-no
+no because messages is dynamic the uinit test is use to test something specific to see if it maches the parameter but not for a message that changes and/or  has no restiction to it
 
 ## Question 4
 
@@ -38,12 +38,18 @@ no
 
 ## Answer
 
-yes
+yes unite test will be able to test the lenght of message and thats because the lenght of the messages in fix and can be passed and test.
 
 
 ---
 ---
 
-![image](sc1.png)
+
 
 [lab link](https://oplikos.github.io/Lab8_Starter/)
+
+
+![image](./screenshot/sc1.png)
+![image](./screenshot/sc20.png)
+![image](./screenshot/sc21.png)
+![image](./screenshot/sc22.png)
