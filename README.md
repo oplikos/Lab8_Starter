@@ -1,7 +1,7 @@
 # Lab 8 - Starter
  
  - [x] Sarkis Bouzikian
- - [ ] Dante
+ - [ ] Dante (he decided to go solo)
 
 ## Question 1
 
